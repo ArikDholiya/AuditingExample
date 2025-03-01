@@ -12,7 +12,6 @@ import java.util.List;
 @RestController
 
 //@EnableJpaRepositories(repositoryFactoryBeanClass = EnversRevisionRepositoryFactoryBean.class)
-//added
 public class BookController {
 
     @Autowired
